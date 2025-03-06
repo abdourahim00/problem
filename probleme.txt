@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Print " Le bonheur est dans le probleme "
+=======
+print("Il y a probleme")
+>>>>>>> 01a8fbf247b55080c0ab1dbab80038f9eddb12e7
